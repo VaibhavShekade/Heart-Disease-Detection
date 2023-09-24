@@ -128,7 +128,7 @@ if (selected == 'Home'):
 
 
 # Heart Disease Prediction Page
-if (selected == 'Heart Disease Prediction'):
+if (selected == 'Heart Disease Detection'):
     
     # page title
     st.title('Heart Disease Prediction using ML')
