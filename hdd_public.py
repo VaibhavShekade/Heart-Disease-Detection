@@ -19,11 +19,10 @@ with st.sidebar:
     selected = option_menu('Multiple Disease Prediction System',
                           
                           [
-                            'Home','Diabetes Prediction',
-                           'Heart Disease Prediction',
-                           'Parkinsons Prediction'
+                            'Home',
+                           'Heart Disease Prediction'
                            ],
-                          icons=['house','activity','heart','person'],
+                          icons=['house','activity'],
                           default_index=0)
 #home    
 if (selected == 'Home'):
