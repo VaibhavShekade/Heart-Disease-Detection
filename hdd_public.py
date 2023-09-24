@@ -20,7 +20,7 @@ with st.sidebar:
                           
                           [
                             'Home',
-                           'Heart Disease Prediction'
+                           'Heart Disease Detection'
                            ],
                           icons=['house','activity'],
                           default_index=0)
