@@ -27,7 +27,7 @@ with st.sidebar:
 #home    
 if (selected == 'Home'):
 
-   st.title("Multiple Disease Prediction System")
+   st.title("Heart Disease Prediction")
    st.subheader('Multi Disease Prediction is system based on predictive modeling which predicts the disease of the user on the basis of the symptoms that user provides as an input to the system. ')
 
    st.write("##")
