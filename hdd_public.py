@@ -28,7 +28,7 @@ with st.sidebar:
 if (selected == 'Home'):
 
    st.title("Heart Disease Detection")
-   st.subheader('Multi Disease Prediction is system based on predictive modeling which predicts the disease of the user on the basis of the symptoms that user provides as an input to the system. ')
+   st.subheader('Heart Disease Detection is system based on predictive modeling which predicts the disease of the user on the basis of the symptoms that user provides as an input to the system. ')
 
    st.write("##")
    st.write("##")   
@@ -172,7 +172,7 @@ if (selected == 'Heart Disease Detection'):
         ca = st.text_input('Major vessels colored by flourosopy')
         
     with col1:
-        thal = st.text_input('thal: 0 = normal; 1 = fixed defect; 2 = reversable defect')
+        thal = st.text_input('thal')
         
         
      
