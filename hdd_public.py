@@ -47,8 +47,8 @@ if (selected == 'Home'):
             <td>20BCS9987</td>
             </tr>
             <tr>
-            <td>PRINCE KUMAR</td>
-            <td>20BCS3364</td>
+            <td>TEJAS SARASWAT</td>
+            <td>20BCS9931</td>
             </tr>
             <tr>
             <td>PRINCE KUMAR SINGH</td>
