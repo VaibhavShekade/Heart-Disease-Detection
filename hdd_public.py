@@ -108,7 +108,7 @@ if (selected == 'Heart Disease Detection'):
         ca = st.text_input('Major vessels colored by flourosopy')
         
     with col1:
-        thal = st.text_input('thal: 0 = normal; 1 = fixed defect; 2 = reversable defect')
+        thal = st.text_input('thal: 0 = normal; 1 = fixed defect; 2 = reversable defect'),1 = fixed defect
         
         
      
